@@ -16,9 +16,6 @@ This website is all about targetting the right audience, making sure you get qui
 For the "7 Alternatives to the <div> HTML Tag" article, click the link below:
 https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036 
 
-## Installation
-
-N/A
 
 ## Usage
 
